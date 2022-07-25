@@ -1,1 +1,3 @@
-[![dohelee's 42 stats](https://badge42.vercel.app/api/v2/cl1l5bhs8001009l7uw69e7o6/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeworld9&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeworld9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
